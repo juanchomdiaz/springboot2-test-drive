@@ -5,4 +5,4 @@ pluginManagement {
 		gradlePluginPortal()
 	}
 }
-rootProject.name = "NewBostonBank"
+rootProject.name = "newbostonbank"

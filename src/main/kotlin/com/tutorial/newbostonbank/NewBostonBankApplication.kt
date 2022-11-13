@@ -1,4 +1,4 @@
-package com.tutorial.NewBostonBank
+package com.tutorial.newbostonbank
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
